@@ -1,4 +1,4 @@
-## Hi, I'm Euie! 👾
+# Hi, I'm Euie! 👾
 
 ### 💫 About Me:
 👩🏻‍💻 **Junior Data Analyst** with a background in Communication and Python for Data and AI.
